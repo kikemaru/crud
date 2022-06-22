@@ -1,0 +1,113 @@
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\OAIP6.exe.config
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\OAIP6.exe
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\OAIP6.pdb
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\EntityFramework.dll
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\EntityFramework.xml
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.SuggestedBindingRedirects.cache
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.Form1.resources
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.Form2.resources
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.CopyComplete
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.exe
+C:\Users\dek0p\source\repos\OAIP6\OAIP6\obj\Debug\OAIP6.pdb
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\OAIP6.exe.config
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\OAIP6.exe
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\OAIP6.pdb
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\EntityFramework.dll
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\EntityFramework.xml
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.SuggestedBindingRedirects.cache
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.Form1.resources
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.Form2.resources
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.csproj.CopyComplete
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.exe
+D:\Bulatjan\Bulatjan\Desktop\Новая папка (5)\OAIP6\OAIP6\obj\Debug\OAIP6.pdb
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe.config
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.pdb
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.dll
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.xml
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form1.resources
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form2.resources
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.exe
+C:\Users\ITKI_07_435\Desktop\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.pdb
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe.config
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.pdb
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.dll
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.xml
+E:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.SuggestedBindingRedirects.cache
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form1.resources
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form2.resources
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.CopyComplete
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.exe
+E:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.pdb
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe.config
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.exe
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\OAIP6.pdb
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.dll
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.xml
+D:\1\kf,f\OAIP\6(нер)\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form1.resources
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Form2.resources
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.csproj.CopyComplete
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.exe
+D:\1\kf,f\OAIP\6(нер)\OAIP6\obj\Debug\OAIP6.pdb
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.AssemblyReference.cache
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.SuggestedBindingRedirects.cache
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Form1.resources
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Form2.resources
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.cache
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.CoreCompileInputs.cache
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.exe
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.pdb
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.exe.config
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.exe
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.pdb
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.dll
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.xml
+E:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+E:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.CopyComplete
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.exe.config
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.exe
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.pdb
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.exe
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\OAIP6.pdb
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.dll
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.SqlServer.dll
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.xml
+D:\1\kf,f\OAIP\6\OAIP6\bin\Debug\EntityFramework.SqlServer.xml
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csprojResolveAssemblyReference.cache
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Form1.resources
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Form2.resources
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.Properties.Resources.resources
+D:\1\kf,f\OAIP\6\OAIP6\obj\Debug\OAIP6.csproj.GenerateResource.Cache
